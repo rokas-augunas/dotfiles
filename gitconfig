@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rokas.augunas@saltpay.co
+	name = rokas
